@@ -12,7 +12,7 @@ Built for the **Senior AI Product Operations & Technical Program Manager (TPM) A
 
 ## 🔗 Live Demo
 * **Live Case Study Dashboard**: [https://composio-saas.vercel.app](https://composio-saas.vercel.app) *(Vercel Production Deployment)*
-* **Backup Interactive Workspace**: [https://ais-pre-jhmpcud2dr6b3v6suwyfyq-811998393172.asia-southeast1.run.app](https://ais-pre-jhmpcud2dr6b3v6suwyfyq-811998393172.asia-southeast1.run.app) *(AI Studio Live Preview)*
+
 
 ---
 
