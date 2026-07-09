@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Agentic Research Platform & Case Study Dashboard",
+  "description": "An interactive system design, simulator, and executive dashboard for automated SaaS capability and MCP integration research across 100 applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
